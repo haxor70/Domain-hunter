@@ -7,4 +7,4 @@ Input: 📥 email:password list
 Output: 📂 Separate files for Gmail, Yahoo, Hotmail, and any custom domain!
 
 
-https://github.com/haxor70/Domain-hunter/blob/main/photo_202.jpg
+![Uploading photo_202.jpg…]()
