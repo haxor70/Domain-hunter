@@ -7,4 +7,4 @@ Input: 📥 email:password list
 Output: 📂 Separate files for Gmail, Yahoo, Hotmail, and any custom domain!
 
 
-![Uploading photo_202.jpg…]()
+![photo_202](https://github.com/user-attachments/assets/76fd3774-4726-4355-bff8-41069d6e1b95)
